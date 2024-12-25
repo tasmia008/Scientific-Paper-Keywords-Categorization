@@ -121,10 +121,7 @@ that results in lower recall values. On the contrary, RoBERTa is more precise an
         </tr>
     </table>
 </div>
-<h3><code style="color:blue">Deployment</code></h3>
-<strong>I deployed the model using huggingface. Check out the deployment <a href="https://huggingface.co/spaces/nelbarman053/Scientific-Paper-Keyword-Categorization">here</a>.</strong>
-<div align="center">
-</div>
+
 
 <h3><code style="color:blue">Integration to website</code></h3>
 <strong>I integrated the model using <a href="https://render.com/">render</a>. Check out the live website <a href="https://scientific-paper-keywords-categorization.onrender.com/">here</a>.</strong><br/>
